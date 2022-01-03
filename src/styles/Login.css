@@ -1,0 +1,16 @@
+form.login-form.text-center {
+    margin-top: 100px;
+    border: 1px solid #ff8101;
+    padding: 50px;
+    border-radius: 23px;
+}
+input.form-control {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+button.btn.btn-lg.btn-custom.btn-block.text-uppercase {
+    background-color: #ff8101;
+    font-size: 12px;
+    width: 100%;
+}

@@ -1,0 +1,42 @@
+.App {
+  /* max-width: 960px; */
+  margin: 0 auto;
+}
+nav {
+  display: flex;
+  margin: 0 auto 60px;
+  gap: 10px;
+  align-items: center;
+}
+nav h1 {
+  margin-right: auto;
+}
+nav a {
+  color: #333;
+  padding: 4px 10px;
+}
+.w-100 {
+  width: 100%!important;
+  height: 600px;
+}
+.card {
+  margin: 10px;
+  border: none !important;
+}
+
+p.cardParagraph {
+  font-size: 13px;
+  text-align: center;
+  color: #41464b;
+}
+
+.card-body {
+  border: 1px solid #6c757d8f;
+  border-radius: 10px;
+}
+
+.card-body:hover {
+  background: #ff8101;
+  color: white;
+  border: 1px solid #ff8101;
+}

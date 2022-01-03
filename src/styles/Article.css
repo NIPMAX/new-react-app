@@ -1,0 +1,9 @@
+img.reactLogo {
+    margin-left: inherit;
+    margin-right: auto !important;
+    width: 29%;
+}
+p.author {
+    text-align: end;
+    color: #41464b;
+}

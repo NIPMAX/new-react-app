@@ -1,0 +1,21 @@
+nav.navbar {
+    background-color: #ff8100;
+    padding: 10px;
+}
+
+a.navLink.active {
+    color: #0f28e7;
+    text-decoration: none;
+    font-weight: 800;
+}
+a.navLink {
+    text-decoration: none;
+}
+nav.navbar.navbar.navbar-expand-lg.navbar-light {
+    margin: 0px;
+}
+a.navLink.entrance {
+    border: 1px solid #e9ecef;
+    border-radius: 26px;
+    color: #e9ecef;
+}
